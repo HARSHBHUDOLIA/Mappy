@@ -59,11 +59,11 @@ class MyHomePage extends StatelessWidget {
               layers: [
                 TileLayerOptions(
                     urlTemplate:
-                        "https://api.mapbox.com/styles/v1/aivankum/ckrjg2fa32dzx17mqbqgwn7t4/wmts?access_token=pk.eyJ1IjoiYWl2YW5rdW0iLCJhIjoiY2tyamJ3bzR5MDEwdzJ2cGNxaXNha3M0ZyJ9.Z9T5-SYG3_-hfv3LezwZEQ",
+                        "xxx",
                     additionalOptions: {
                       'accessToken':
-                          'pk.eyJ1IjoiYWl2YW5rdW0iLCJhIjoiY2tyamJ3bzR5MDEwdzJ2cGNxaXNha3M0ZyJ9.Z9T5-SYG3_-hfv3LezwZEQ',
-                      'id': 'mapbox.mapbox-streets-v8',
+                          'xxx',
+                      'id': 'xxx',
                     }),
                 MarkerLayerOptions(
                   markers: [
